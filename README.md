@@ -12,7 +12,7 @@
 
   ### Meus Repositorios
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsaacMRodrigues&repo=PORTFOLIO_ISAACMRODRIGUES&theme=transparent)](https://github.com/IsaacMRodrigues/PORTFOLIO_ISAACMRODRIGUES)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsaacMRodrigues&repo=collections-java-api-2023&theme=transparent)](https://github.com/IsaacMRodrigues/PORTFOLIO_ISAACMRODRIGUES)
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsaacMRodrigues&repo=collections-java-api-2023&theme=transparent)](https://github.com/IsaacMRodrigues/collections-java-api-2023)
  
