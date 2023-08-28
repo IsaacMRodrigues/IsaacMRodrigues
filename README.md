@@ -1,6 +1,7 @@
 ## Isaac aqui!
 ### Desenvolvedor Backend
-### Cursando atualmente Técnico em Informatia para Internet no SENAI
+### Atualmente moro em São Gonçalo do Rio Abaixo
+### Atualmente curso Técnico em Informatia para Internet no SENAI
 <div align="center">
  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsaacMRodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
@@ -8,6 +9,12 @@
 </div>
   
   ##
+
+  ### Meus Repositorios
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsaacMRodrigues&repo=PORTFOLIO_ISAACMRODRIGUES&theme=transparent)](https://github.com/IsaacMRodrigues/PORTFOLIO_ISAACMRODRIGUES)
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsaacMRodrigues&repo=collections-java-api-2023&theme=transparent)](https://github.com/IsaacMRodrigues/collections-java-api-2023)
  
 <div> 
   
