@@ -1,6 +1,5 @@
 ## Isaac aqui!
-### Desenvolvedor Backend
-### Atualmente moro em São Gonçalo do Rio Abaixo
+### Desenvolvedor Fullstack
 ### Atualmente curso Técnico em Informatica para Internet no SENAI
 <div align="center">
  
